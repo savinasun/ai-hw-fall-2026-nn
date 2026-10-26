@@ -1,0 +1,164 @@
+[
+ {
+  "model": "mlp",
+  "aug": "none",
+  "seed": 0,
+  "params": 407050,
+  "train_acc": 99.99666666666667,
+  "test_acc": 98.62,
+  "secs": 7
+ },
+ {
+  "model": "mlp",
+  "aug": "none",
+  "seed": 1,
+  "params": 407050,
+  "train_acc": 99.99833333333333,
+  "test_acc": 98.67,
+  "secs": 7
+ },
+ {
+  "model": "mlp",
+  "aug": "none",
+  "seed": 2,
+  "params": 407050,
+  "train_acc": 99.99833333333333,
+  "test_acc": 98.6,
+  "secs": 9
+ },
+ {
+  "model": "mlp",
+  "aug": "affine",
+  "seed": 0,
+  "params": 407050,
+  "train_acc": 98.95,
+  "test_acc": 98.85,
+  "secs": 9
+ },
+ {
+  "model": "mlp",
+  "aug": "affine",
+  "seed": 1,
+  "params": 407050,
+  "train_acc": 98.92666666666666,
+  "test_acc": 98.82,
+  "secs": 9
+ },
+ {
+  "model": "mlp",
+  "aug": "affine",
+  "seed": 2,
+  "params": 407050,
+  "train_acc": 98.935,
+  "test_acc": 98.92,
+  "secs": 9
+ },
+ {
+  "model": "cnn",
+  "aug": "none",
+  "seed": 0,
+  "params": 96746,
+  "train_acc": 99.99833333333333,
+  "test_acc": 99.55,
+  "secs": 49
+ },
+ {
+  "model": "cnn",
+  "aug": "none",
+  "seed": 1,
+  "params": 96746,
+  "train_acc": 99.99833333333333,
+  "test_acc": 99.55,
+  "secs": 48
+ },
+ {
+  "model": "cnn",
+  "aug": "none",
+  "seed": 2,
+  "params": 96746,
+  "train_acc": 99.99833333333333,
+  "test_acc": 99.51,
+  "secs": 48
+ },
+ {
+  "model": "cnn",
+  "aug": "affine",
+  "seed": 0,
+  "params": 96746,
+  "train_acc": 99.78,
+  "test_acc": 99.63,
+  "secs": 51
+ },
+ {
+  "model": "cnn",
+  "aug": "affine",
+  "seed": 1,
+  "params": 96746,
+  "train_acc": 99.77666666666667,
+  "test_acc": 99.53,
+  "secs": 51
+ },
+ {
+  "model": "cnn",
+  "aug": "affine",
+  "seed": 2,
+  "params": 96746,
+  "train_acc": 99.77833333333334,
+  "test_acc": 99.67,
+  "secs": 51
+ },
+ {
+  "model": "transformer",
+  "aug": "none",
+  "seed": 0,
+  "params": 205066,
+  "train_acc": 99.83,
+  "test_acc": 98.74,
+  "secs": 109
+ },
+ {
+  "model": "transformer",
+  "aug": "none",
+  "seed": 1,
+  "params": 205066,
+  "train_acc": 99.83333333333333,
+  "test_acc": 98.52,
+  "secs": 105
+ },
+ {
+  "model": "transformer",
+  "aug": "none",
+  "seed": 2,
+  "params": 205066,
+  "train_acc": 99.83333333333333,
+  "test_acc": 98.68,
+  "secs": 109
+ },
+ {
+  "model": "transformer",
+  "aug": "affine",
+  "seed": 0,
+  "params": 205066,
+  "train_acc": 99.14,
+  "test_acc": 99.28,
+  "secs": 117
+ },
+ {
+  "model": "transformer",
+  "aug": "affine",
+  "seed": 1,
+  "params": 205066,
+  "train_acc": 99.11,
+  "test_acc": 99.08,
+  "secs": 117
+ },
+ {
+  "model": "transformer",
+  "aug": "affine",
+  "seed": 2,
+  "params": 205066,
+  "train_acc": 99.13166666666666,
+  "test_acc": 99.08,
+  "secs": 115
+ }
+]
